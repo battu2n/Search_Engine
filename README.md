@@ -51,7 +51,7 @@ View the results ranked by semantic similarity score.
 
 Python is a versatile programming language used for web development, data science, and automation.
 Machine learning algorithms can automatically learn patterns from data without explicit programming.
----
+...
 
 
 
