@@ -74,7 +74,7 @@ streamlit
 numpy
 
 🧑‍💻 Author
-Your Name
+Nagavardhan Battu
 Feel free to connect or contribute!
 
 📜 License
